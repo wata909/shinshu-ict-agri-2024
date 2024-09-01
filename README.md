@@ -15,3 +15,7 @@
 
 ## 0.5M DEM
 - 長野県林業総合センター　[長野県 _0.5mDEM（G空間情報センターにて公開）](https://www.geospatial.jp/ckan/dataset/nagano-dem)
+
+- 実習に使用したデータは、以下からダウンロード
+  - [0.5M DEM](https://www.dropbox.com/scl/fi/v4xg9hrvea5zj2r93i39u/dem05.tif?rlkey=5wms0vyt2l473xi83fpq2yf52&dl=0)
+  - [0.5M Slope](https://www.dropbox.com/scl/fi/jtq1cnbmfifhxp0bb7ynw/dem05_slope.tif?rlkey=0hy9wtfg7sbxzpoekgb58ifcb&dl=0)
